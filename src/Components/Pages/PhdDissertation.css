@@ -1,0 +1,85 @@
+.img-bg {
+  background-image: url(../../Assets/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.img-bg4 {
+  background-image: url('../../Assets/imgbg6.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 143.5vh;
+}
+
+.img-bg2 {
+  background-image: url('../../Assets/imgbg2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 90%;
+}
+
+.img-bg5 {
+  background-image: url(../../Assets/imgbg5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.logo {
+  height: 25%;
+  width: 25%;
+}
+
+.img-bg6{
+  background-image: url(../../Assets/imgbg4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 94vh;
+}
+
+@media screen and (max-width: 1440px) {
+
+  .img-bg,
+  .img-bg2 {
+    height: 100%;
+  }
+
+  .img-bg4 {
+    height: 109.2rem;
+
+  }
+
+  .text-size {
+    font-size: small;
+  }
+
+  .logo {
+    width: 60%;
+    height: 60%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+@media screen and (max-width:400px) {
+
+  .img-bg,
+  .img-bg2 {
+    height: 100%;
+  }
+
+  .logo {
+    width: 50%;
+    height: 50%;
+  }
+}

@@ -1,0 +1,11 @@
+.btn-whatsapp:hover {
+    background: #28d146;
+}
+
+.btn-whatsapp:hover .anticon svg {
+    color: white !important;
+}
+
+.btn-top:hover {
+    background-color: #ffc107;
+}

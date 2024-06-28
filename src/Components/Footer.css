@@ -1,0 +1,46 @@
+a {
+    list-style-type: disc;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+a.links:hover {
+    color: #FFC101;
+    letter-spacing: 1.3px;
+}
+
+a.linkto:hover {
+    color: #FFC101;
+}
+
+
+:root {
+    --insta-gradient: radial-gradient(circle farthest-corner at 28% 100%,
+    #fcdf8f 0%,
+    #fbd377 10%,
+    #fa8e37 22%,
+    #f73344 35%,
+    transparent 65%), linear-gradient(145deg, #3051f1 10%, #c92bb7 70%);
+}
+
+.btn-insta {
+    border: 2px solid #c92bb7;
+    border-image: var(--insta-gradient);
+    background-origin: border-box;
+    transition: 0.5s ease-in-out;
+}
+
+.btn-insta:hover {
+    background-image: var(--insta-gradient);
+}
+
+.btn-linkedin {
+    border: 2px solid #0A66C2;
+    transition: 0.2s ease-in-out;
+
+}
+
+.btn-linkedin:hover {
+    background-color: #0A66C2;
+}

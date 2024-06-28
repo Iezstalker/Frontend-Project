@@ -1,0 +1,18 @@
+.linked {
+    color: black;
+}
+
+.linkto:hover {
+    color: #ffc107;
+    letter-spacing: 0.4px;
+    transition: 0.3s ease-in-out;
+}
+
+.mail {
+    color: #0d6efd;
+}
+
+.mail:hover {
+    color: #ffc107;
+    transition: 0.5s ease-in-out;
+}
