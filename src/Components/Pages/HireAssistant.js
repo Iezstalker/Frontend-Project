@@ -4,7 +4,7 @@ const HireAssistant = () => {
   return (
     <>
       <div className="container my-4">
-        <h2 className="text-warning"> Hiring a Research Assitant </h2>
+        <h2 className="text-warning"> Hiring a Research Assistant </h2>
         <p className='text-dark mt-2'> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum amet voluptates totam odio dicta quaerat officia illum architecto? Doloribus nesciunt laudantium, possimus impedit explicabo harum atque et dicta sapiente quas reprehenderit consequatur corrupti esse saepe ullam quos eum dolore illum earum voluptate reiciendis excepturi. Commodi? </p>
         <p className="text-dark"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus earum voluptate similique inventore repudiandae explicabo eos quas facilis excepturi perferendis sint est quibusdam aperiam expedita, adipisci, suscipit minima eaque non veniam aliquid voluptatem, cum laboriosam odio. Consequuntur sed perspiciatis maiores. </p>
         <p className="text-dark"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident aspernatur officiis iusto eos alias quisquam quidem quia quaerat incidunt, sed exercitationem labore accusamus dolores similique non laborum minus laudantium ipsum facere tenetur esse dolorem pariatur ducimus libero! Accusamus ducimus quia repellat cumque, perferendis laborum. Praesentium cupiditate asperiores esse impedit vitae corrupti sit officia dolor delectus earum! </p>
