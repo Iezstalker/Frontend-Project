@@ -13,14 +13,14 @@ const About = () => {
             whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
             transition={{ duration: 0.8 }}
           >
-            <div className="row ps-3">
+            <div className="container row ps-3">
 
               {/* About Us */}
-              <div className="col-6 col-md-7">
+              <div className="col-md-7">
                 <h2 className='fw-bold ps-5 text-body-tertiary'> About Us</h2>
                 <p className='ps-5 pe-4 text-dark'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum possimus consectetur voluptas tempore dolor velit molestias magni unde adipisci omnis perspiciatis quisquam, quam optio nihil vero, iusto dolores culpa. Maxime optio cupiditate enim quo.</p>
               </div>
-              <div className="col-6 col-md-4 mb-5">
+              <div className="col-md-4 mb-5">
                 <img src={images.Suvidha1} alt="" className='card-img-top' />
               </div>
             </div>
@@ -31,12 +31,12 @@ const About = () => {
             whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
             transition={{ duration: 0.8 }}
           >
-            <div className="row">
-              <div className="col-6 col-md-4">
+            <div className="container row">
+              <div className="col-md-4">
                 <img src={images.Suvidha1} alt="" className='card-img-top' />
               </div>
-              <div className="col-6 col-md-7 text-body-tertiary mb-5">
-                <h2 className='fw-bold ps-5'> Our Mission </h2>
+              <div className="col-md-7 text-body-tertiary mb-5">
+                <h2 className='fw-bold ps-5 mt-3'> Our Mission </h2>
                 <p className='ps-5 pe-4 text-dark'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum possimus consectetur voluptas tempore dolor velit molestias magni unde adipisci omnis perspiciatis quisquam, quam optio nihil vero, iusto dolores culpa. Maxime optio cupiditate enim quo.</p>
               </div>
             </div>
@@ -47,12 +47,12 @@ const About = () => {
             whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
             transition={{ duration: 0.8 }}
           >
-            <div className="row">
-              <div className="col-6 col-md-7 mt-5">
+            <div className="container row">
+              <div className="col-md-7 mt-5">
                 <h2 className='fw-bold ps-5 text-body-tertiary'> Our Story </h2>
                 <p className='ps-5 pe-4 text-dark'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum possimus consectetur voluptas tempore dolor velit molestias magni unde adipisci omnis perspiciatis quisquam, quam optio nihil vero, iusto dolores culpa. Maxime optio cupiditate enim quo.</p>
               </div>
-              <div className="col-6 col-md-4 mt-5 mb-5">
+              <div className="col-md-4 mt-5 mb-5">
                 <img src={images.Suvidha1} alt="" className='card-img-top' />
               </div>
             </div>
@@ -63,12 +63,12 @@ const About = () => {
             whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
             transition={{ duration: 0.8 }}
           >
-            <div className="row">
-              <div className="col-6 col-md-4">
+            <div className="container row">
+              <div className="col-md-4">
                 <img src={images.Suvidha1} alt="" className='card-img-top' />
               </div>
-              <div className="col-6 col-md-7 mb-5">
-                <h2 className='fw-bold ps-5 text-body-tertiary'> Our Charity Events </h2>
+              <div className="col-md-7 mb-5">
+                <h2 className='fw-bold ps-5 text-body-tertiary mt-3'> Our Charity Events </h2>
                 <p className='ps-5 pe-4 text-dark'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum possimus consectetur voluptas tempore dolor velit molestias magni unde adipisci omnis perspiciatis quisquam, quam optio nihil vero, iusto dolores culpa. Maxime optio cupiditate enim quo.</p>
               </div>
             </div>
@@ -79,12 +79,12 @@ const About = () => {
             whileInView={{ y: [100, 50, 0], opacity: [0, 0, 1] }}
             transition={{ duration: 0.8 }}
           >
-            <div className="row">
-              <div className="col-6 col-md-7 mt-5">
+            <div className="container row">
+              <div className="col-md-7 mt-5">
                 <h2 className='fw-bold ps-5 text-body-tertiary'> What We Do</h2>
                 <p className='ps-5 pe-4 text-dark'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum possimus consectetur voluptas tempore dolor velit molestias magni unde adipisci omnis perspiciatis quisquam, quam optio nihil vero, iusto dolores culpa. Maxime optio cupiditate enim quo.</p>
               </div>
-              <div className="col-6 col-md-4 mt-5 mb-5">
+              <div className="col-md-4 mt-5 mb-5">
                 <img src={images.Suvidha1} alt="" className='card-img-top' />
               </div>
             </div>
